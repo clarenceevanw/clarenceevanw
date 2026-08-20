@@ -1,5 +1,10 @@
-<h1 data-importer="text" align="center">Hello World 👋</h1>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=600&height=50&lines=Hi+there,+I'm+Clarence+Evan+Wijaya+👋;Software+Engineer+%7C+AI+Enthusiast;Building+Scalable+Apps+%26+Intelligent+Systems" alt="Typing SVG" />
+  
+  <p align="center">
+    🚀 <i>Crafting high-performance web systems, algorithms, and intelligent pipelines.</i>
+  </p>
+</div>
 ###
 
 <div data-importer="techs" align="center">
